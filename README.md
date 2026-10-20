@@ -1,4 +1,4 @@
-# MarkItDown TUI
+# MarkDrop
 
 Drop in a file path, get a Markdown file back. That's the whole app.
 
