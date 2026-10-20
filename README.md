@@ -2,7 +2,6 @@
 
 Drop in a file path, get a Markdown file back. That's the whole app.
 
-![screenshot](screenshot.png)
 
 ## Just want to use it?
 
