@@ -5,7 +5,7 @@ Drop in a file path, get a Markdown file back. That's the whole app.
 
 ## Just want to use it?
 
-1. Download `markitdown-tui.exe` from the Releases page. https://github.com/ajth-virat/MarkDrop/releases/latest
+1. Download `markitdown-tui.exe` from the Releases page. https://github.com/ajth-virat/MarkDrop./releases/latest
 2. Double-click it. A terminal window opens.
 3. Paste the full path to a file (quotes are fine) and press Enter.
 4. Your `.md` file is in your Downloads folder.
